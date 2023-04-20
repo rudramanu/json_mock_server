@@ -6,10 +6,12 @@
       "author": "typicode"
     }
   ],
-  "users": {
-    "id": 1,
-    "name": "Rudra",
-    "age": 25,
-    "city": "Ranchi"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Rudra",
+      "age": 25,
+      "city": "Ranchi"
+    }
+  ]
 }
