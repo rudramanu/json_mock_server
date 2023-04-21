@@ -1,47 +1,18 @@
 {
-  "posts": [
+  "dogs": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "users": [
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
     {
       "id": 1,
-      "name": "Rudra",
-      "age": 25,
-      "city": "Ranchi"
-    },
-    {
-      "name": "Spider",
-      "age": 35,
-      "city": "London",
-      "id": 2
-    },
-    {
-      "name": "Boss",
-      "age": 35,
-      "city": "USA",
-      "id": 13
-    },
-    {
-      "name": "Thor",
-      "age": 40,
-      "city": "California",
-      "id": 14
-    },
-    {
-      "name": "Hulk",
-      "age": 45,
-      "city": "Berlin",
-      "id": 15
-    },
-    {
-      "name": "Berlin",
-      "age": 45,
-      "city": "Berlin",
-      "id": 16
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
