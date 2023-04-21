@@ -20,64 +20,16 @@
       "id": 2
     },
     {
-      "name": "Lalu",
+      "name": "shaktimaan",
       "age": 35,
-      "city": "Bihar",
+      "city": "India",
       "id": 3
     },
     {
-      "name": "Lalu",
+      "name": "Modi",
       "age": 35,
-      "city": "Bihar",
+      "city": "Ahmedabad",
       "id": 4
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 5
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 6
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 7
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 8
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 9
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 10
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 11
-    },
-    {
-      "name": "Lalu",
-      "age": 35,
-      "city": "Bihar",
-      "id": 12
     }
   ]
 }
