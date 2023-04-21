@@ -12,6 +12,12 @@
       "name": "Rudra",
       "age": 25,
       "city": "Ranchi"
+    },
+    {
+      "id": 4,
+      "name": "Shaktimaan",
+      "age": 50,
+      "city": "Lucknow"
     }
   ]
 }
