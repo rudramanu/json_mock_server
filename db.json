@@ -20,16 +20,16 @@
       "id": 2
     },
     {
-      "name": "shaktimaan",
+      "name": "Boss",
       "age": 35,
-      "city": "India",
-      "id": 3
+      "city": "USA",
+      "id": 13
     },
     {
-      "name": "Modi",
-      "age": 35,
-      "city": "Ahmedabad",
-      "id": 4
+      "name": "Thor",
+      "age": 40,
+      "city": "California",
+      "id": 14
     }
   ]
 }
