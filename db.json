@@ -14,5 +14,14 @@
       "place": "Banglore",
       "gender": "Female"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "XXX",
+      "age": 29,
+      "place": "Nowhere",
+      "gender": "Male"
+    }
   ]
 }
